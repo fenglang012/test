@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./sample_editor/ui",
+        "./sample_editor/ui"
+    ]
+}
